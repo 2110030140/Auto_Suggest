@@ -1,7 +1,3 @@
-Here's a structured and organized presentation of your Trie Auto-Suggest project, including detailed instructions and well-ordered code sections:
-
----
-
 # Trie Auto-Suggest
 
 ## About This Project
